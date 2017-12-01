@@ -5,7 +5,7 @@
 
 ## 成员
 
-- [BrookSongBrookSong](https://github.com/BrookSongBrookSong)
+- [![BrookSongBrookSong](https://avatars0.githubusercontent.com/u/25792264?s=60&v=4)](https://github.com/BrookSongBrookSong)
 
 
 ## 环境
