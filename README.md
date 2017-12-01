@@ -20,11 +20,28 @@
 - 和合分支: [GC4WP/common at mg3la2](https://github.com/GC4WP/common/tree/mg3la2)
 - 团队指派: @GC4WP/mg3la2 
 
+### 日常
+~ 配合课程的定期嗯哼
+
+> 暂定
+
+- 周一 20:42~21:21 作业解析 zoom.us 会议
+- 周三 20:42~21:21 作业和合 zoom.us 会议
+- 周五 20:00~22:00 认真上课 哪儿方便哪儿嗯哼
+
+
 ### 和合技
 
 参考:
 
-- 
+- [GC4g56: 和合技~强释](http://www.jianshu.com/p/aaf4096bde08)
+    + [S07E15g193: 嗯哼重来](http://www.jianshu.com/p/04b10e675998)
+    + [S06E05g56: 再次嗯哼](http://www.jianshu.com/p/61709860ae61)
+- [S07E15g193: 和合技 私例](http://www.jianshu.com/p/1e3d5d0b2599)
+- [「私塾7.2/36」和合技BC 模式](http://www.jianshu.com/p/ba524d020a06)
+- [「私塾7.1/36」和合技C-C模式](http://www.jianshu.com/p/d90f5df63e18)
+- [重拾珍珠：好中文“和合计”回顾及花絮](http://www.jianshu.com/p/64dabd780fa5)
+- ...
 
 ## 工具
 
