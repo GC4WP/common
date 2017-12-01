@@ -9,7 +9,7 @@
 - 005-[![BrookSongBrookSong](https://avatars0.githubusercontent.com/u/25792264?s=60&v=4)](https://github.com/BrookSongBrookSong)
 - 017-[![sallysong007](https://avatars1.githubusercontent.com/u/26237577?s=60&v=4)](https://github.com/sallysong007)
 - 42-[![ZoomQuiet](https://avatars0.githubusercontent.com/u/22494?s=60&v=4)](https://github.com/ZoomQuiet)
-- 109-[![qingkongdy](https://avatars2.githubusercontent.com/u/33743520?s=60&v=4)](https://github.com/qingkongdy)
+- 109-[青空](https://github.com/qingkongdy)
 - 182-[![gcw182nico](https://avatars3.githubusercontent.com/u/33693084?s=60&v=4)](https://github.com/gcw182nico)
 
 ## 环境
