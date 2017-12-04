@@ -51,6 +51,7 @@
 - github 操作:
     + 现代浏览器: FireFox 版本 56.0.2/Chrome 最新版本
         * 扩展: [It's All Text! - Firefox 附加组件](https://addons.mozilla.org/zh-CN/firefox/addon/its-all-text/) 可以加速网页端内容编辑
+        * [Directory Listing: /pub/firefox/releases/56.0.2/](https://ftp.mozilla.org/pub/firefox/releases/56.0.2/) 注意只能在特殊版本中使用
     + 版本管理工具: git/svn
 
 ## 孤子分支
