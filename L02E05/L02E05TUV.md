@@ -78,17 +78,19 @@
     - 文化:
     - 同例: I won't stay here unless he leaves.
         + 除非他离开，否则我不会呆在这。
-1. 很高兴认识你。 
-    - 原句: nice to meet you
-    - 句式: （adj） to (V) someone 
-    - 文化:
+1. 很高兴认识你。
+    - 原句: nice to meet you
+    - 句式: （adj） to (V) someone 
+    - 文化:
     - 同例: sad to tell you
 1. 我不认为他是个好人
-    - 原句: I don't think he is a good man.
-    - 句式: I don't think...
+    - 原句: I don't think he is a good man.
+    - 句式: I don't think...
     - 文化:
     - 同例: I don't think it works.
+
 ## 外来比喻
+
 > 至少10个比喻，比如“⼀⽯⼆鸟” 
 
 1. 油炸鬼
