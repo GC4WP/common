@@ -51,22 +51,23 @@
     - 文化:
     - 同例:
 1. 以便于/以至于
-    - 原句: 
+    - 原句: So as to free up that valuable labour so that it can go and do something else.
     - 句式: so as to
-    - 文化:
-    - 同例: So as to free up that valuable labour so that it can go and do something else.
-        + 腾出了宝贵的劳动力，以便可以干些其他的事
+    - 文化: 由英语中引导目的状语而来。通常为先描述做了某事，而导致后面达成的目的。
+    - 同例: I got up early this morning so as to catch the early train.（为了赶早车，我今天早起了。）
+     
 1. 最…之一
-    - 原句:
+    - 原句: I think the Captain America is one of the most famous superhero I've ever seen.（美国队长是美国最知名的超级漫画英雄之一）
     - 句式: one of the most…
-    - 文化:
-    - 同例: I think the Captain America is one of the most famous superhero I've ever seen.
-        + 美国队长是美国最知名的超级漫画英雄之一
+    - 文化: 来源于英语，表达所谓的精确。出自《翻译乃大道（从西而不化到西而化之）》，“最高级+名词+之一”，但仔细推究其中，即可发现：在不圈定范围的情况下，还是没有表达具体的精确度。比如李白是中国最伟大的诗人之一。那么，最伟大的诗人到底有谁？这是否已经成为公共认知。
+    - 同例: 《哈姆雷特》是莎士比亚最著名的悲剧作品之一。
+        
 1. 是时候…
-    - 原句:
-    - 句式:It's time to do sth.
-    - 文化:
-    - 同例: 是时候干些什么了
+    - 原句: It's time to do sth.（是某人做某事的时候了）
+    - 句式: It's time to do sth.
+    - 文化: 这个句式，来源于英语中介词对中文的影响。由于原本中文中没有介词，中文中的动词往往就能说清句子的意思。因此面对英文中的“ to do”，中文发明出：该是……的时候了。
+    - 同例: It’s time to have supper.（该吃晚饭了）
+      
 1. 恭喜你成为我们中的一员。
     - 原句: Congratulations to become one of us.
     - 句式:
@@ -109,5 +110,11 @@
     - 喻源: 古印度佛教一种最恭敬的行礼仪式
 1. 象牙之塔
     - 喻源: 原是法国十九世纪文艺批评家圣佩韦批评同时代消极浪漫主义诗人维尼的话。后用以比喻脱离现实生活的文艺家的小天地。
-
-
+1. 潘多拉魔盒
+    - 喻源: 出自希腊神话。比喻引发了灾难和不幸的爆发。
+1. 阿基里斯之踵
+    - 喻源: 出自希腊神话。相传英雄阿基里斯出生后被母亲抓住脚踝浸在冥河的水中侵泡，因此可抵挡各种刀剑之伤，唯独脚踝处没有受到冥河之水的加持，因此成为他的致命弱点。比喻唯一的弱点。
+1. 罗马不是一天建成的
+    - 喻源: 出自英语典故，来自《罗马神话》。比喻，伟业不是简单达成的。
+1. 太阳底下无新事
+    - 喻源: 出自圣经《圣经·旧约·传道书》。比喻，万物一切都是安排好的，并无特例和意外。    
