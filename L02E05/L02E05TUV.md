@@ -21,24 +21,19 @@
 
 1. 他在我的反应范围之外
     - 原句: the man (who gives his name to this book) was exempt from my reaction
-    - 句式: A be exempt from B 免除于... 
-    - 文化: 出自"了不起的盖茨比",表示逻辑上的否定
-    - 同例: No one can exempt from the society. 人不能脱离社会环境之外. 
-1. 进行不断的,有时隐蔽有时公开的斗争 
-    - 原句: carried on an uninterrupted, now hidden, now open fight
-    - 句式: a ...  fight 一种... 斗争 
-    - 文化: 出自"共产党宣言",名词前加定冠词修饰. 
-    - 同例: Life is a struggle. 生活是一场奋斗. 
+    - 句式: A be exempt from B 免除于... 
+    - 文化: 出自"了不起的盖茨比",表示逻辑上的否定
+    - 同例: No one can exempt from the society. 人不能脱离社会环境之外. 
+1. 进行不断的,有时隐蔽有时公开的斗争
+    - 原句: carried on an uninterrupted, now hidden, now open fight
+    - 句式: a ...  fight 一种... 斗争 
+    - 文化: 出自"共产党宣言",名词前加定冠词修饰. 
+    - 同例: Life is a struggle. 生活是一场奋斗. 
 1. 菊治也不十分清楚自己为什么会与夫人陷入这种状态
     - 原句: 菊田治も,自分がなぜ夫人とこんな状態に陥るのかよく分からない. 
-    - 句式: 陷入某种状态
-    - 文化: 出自"千只鹤",状态是个科学名词,描述事物处于某时期的形态
-    - 同例: 陷入精力耗尽的状态 fall into a state of exhaustion
-1. 吃个饭先 (此句存疑)
-    - 原句: have a dinner first
-    - 句式: do something first
-    - 文化: 原出自粤语句式,可能受外来语(英语)影响
-    - 同例: Let's go first. 我们走先. 
+    - 句式: 陷入某种状态
+    - 文化: 出自"千只鹤",状态是个科学名词,描述事物处于某时期的形态
+    - 同例: 陷入精力耗尽的状态 fall into a state of exhaustion
 1. 如此才能释放那些宝贵的劳动力,以使之能够去做别的事情
     - 原句: So as to free up that valuable labour so that it can go and do something else.
     - 句式: so as to
@@ -57,14 +52,14 @@
 1. 人们不会明白编剧有多难,除非真正从事过写剧本的工作.  
     - 原句: People will never understand how hard to write a play,unless they actually take the job.
     - 句式: ..unless..
-    - 文化: 纸上得来终觉浅，绝知此事要躬行。似乎汉语中的条件都是以肯定句的语气来说的，而通过否定说除非怎样，否则就不怎样，来表明条件，应该是外来的用法。
-    - 同例: I won't stay here unless he leaves.
+    - 文化: 纸上得来终觉浅，绝知此事要躬行。似乎汉语中的条件都是以肯定句的语气来说的，而通过否定说除非怎样，否则就不怎样，来表明条件，应该是外来的用法。
+    - 同例: I won't stay here unless he leaves.
         + 除非他离开,否则我不会呆在这. 
 1. 恭喜你成为我们中的一员
     - 原句: Congratulations to become one of us.
     - 句式: become one of us
-    - 文化: 汉语中，集体就是集体，没有集体中的一员这样强调个体的表述。
-    - 同例：作为我们中的一员，你应该有集体荣誉感
+    - 文化: 汉语中，集体就是集体，没有集体中的一员这样强调个体的表述。
+    - 同例：作为我们中的一员，你应该有集体荣誉感
 1. 很高兴认识你. 
     - 原句: nice to meet you
     - 句式: (adj) to (V) someone 
@@ -76,6 +71,16 @@
     - 文化: ~
     - 同例: I don't think it works.
    
+
+### 存疑
+
+1. 吃个饭先
+    - 原句: have a dinner first
+    - 句式: do something first
+    - 文化: 原出自粤语句式,可能受外来语(英语)影响
+    - 同例: Let's go first. 我们走先. 
+
+
 
 ## 外来比喻
 
