@@ -28,7 +28,7 @@
     - 原句: carried on an uninterrupted, now hidden, now open fight
     - 句式: 对名词定语/形容的堆叠
     - 文化: 出自"共产党宣言",名词前加多个形容词来修饰. 
-    - 同例: Life is a struggle. 生活是一场永不终结的无望的..奋斗. 
+    - 同例: Life is a never-ending，desperate struggle. 生活是一场永不终结的无望的..奋斗. 
 1. 菊治也不十分清楚自己为什么会与夫人陷入这种状态
     - 原句: 菊田治も,自分がなぜ夫人とこんな状態に陥るのかよく分からない. 
     - 句式: 陷入某种状态
