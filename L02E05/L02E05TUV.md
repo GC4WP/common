@@ -26,13 +26,13 @@
     - 同例: No one can exempt from the society. 人不能脱离社会环境之外. 
 1. 进行不断的,有时隐蔽有时公开的斗争
     - 原句: carried on an uninterrupted, now hidden, now open fight
-    - 句式: a ...  fight 一种... 斗争 
-    - 文化: 出自"共产党宣言",名词前加定冠词修饰. 
-    - 同例: Life is a struggle. 生活是一场奋斗. 
+    - 句式: 对名词定语/形容的堆叠
+    - 文化: 出自"共产党宣言",名词前加多个形容词来修饰. 
+    - 同例: Life is a struggle. 生活是一场永不终结的无望的..奋斗. 
 1. 菊治也不十分清楚自己为什么会与夫人陷入这种状态
     - 原句: 菊田治も,自分がなぜ夫人とこんな状態に陥るのかよく分からない. 
     - 句式: 陷入某种状态
-    - 文化: 出自"千只鹤",状态是个科学名词,描述事物处于某时期的形态
+    - 文化: 出自"千只鹤",状态是个科学名词,描述事物处于某时期的形态; 对应的中文会直接给出最终状态描述, 而不会对`陷入`过程加以关注; 
     - 同例: 陷入精力耗尽的状态 fall into a state of exhaustion
 1. 如此才能释放那些宝贵的劳动力,以使之能够去做别的事情
     - 原句: So as to free up that valuable labour so that it can go and do something else.
@@ -44,22 +44,22 @@
     - 句式: one of the most...  最... 之一
     - 文化: 来源于英语,表达所谓的精确. 出自"翻译乃大道(从西而不化到西而化之)","最高级+名词+之一",但仔细推究其中,即可发现:在不圈定范围的情况下,还是没有表达具体的精确度. 比如李白是中国最伟大的诗人之一. 那么,最伟大的诗人到底有谁?这是否已经成为公共认知. 
     - 同例: "哈姆雷特"是莎士比亚最著名的悲剧作品之一. 
-1. 是时候做点什么的时候了
+1. 是时候做点什么了
     - 原句: It's time to do somethings.
-    - 句式: 是时候... It's time to do ...
+    - 句式: 是时候... It's time for/to XXX...
     - 文化: 这个句式,来源于英语中介词对中文的影响. 由于原本中文中没有介词,中文中的动词往往就能说清句子的意思. 因此面对英文中的" to do",中文发明出:该是... 的时候了. 
     - 同例: It's time to have supper.(该吃晚饭了)
 1. 人们不会明白编剧有多难,除非真正从事过写剧本的工作.  
-    - 原句: People will never understand how hard to write a play,unless they actually take the job.
+    - 原句: People will never understand how hard to write a play,unless they actually take the job.
     - 句式: ..unless..
-    - 文化: 纸上得来终觉浅，绝知此事要躬行。似乎汉语中的条件都是以肯定句的语气来说的，而通过否定说除非怎样，否则就不怎样，来表明条件，应该是外来的用法。
+    - 文化: 纸上得来终觉浅,绝知此事要躬行. 似乎汉语中的条件都是以肯定句的语气来说的,而通过否定说除非怎样,否则就不怎样,来表明条件,应该是外来的用法. 
     - 同例: I won't stay here unless he leaves.
         + 除非他离开,否则我不会呆在这. 
 1. 恭喜你成为我们中的一员
     - 原句: Congratulations to become one of us.
     - 句式: become one of us
-    - 文化: 汉语中，集体就是集体，没有集体中的一员这样强调个体的表述。
-    - 同例：作为我们中的一员，你应该有集体荣誉感
+    - 文化: 汉语中,集体就是集体,没有集体中的一员这样强调个体的表述. 
+    - 同例:作为我们中的一员,你应该有集体荣誉感
 1. 很高兴认识你. 
     - 原句: nice to meet you
     - 句式: (adj) to (V) someone 
