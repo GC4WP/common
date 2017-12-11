@@ -63,7 +63,7 @@
 1. 恭喜你成为我们中的一员
     - 原句: Congratulations to become one of us.
     - 句式: become one of us
-    - 文化: 
+    - 文化: 汉语中，集体就是集体，没有集体中的一员这样强调个体的表述。
     - 同例：作为我们中的一员，你应该有集体荣誉感
 1. 很高兴认识你. 
     - 原句: nice to meet you
