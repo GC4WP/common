@@ -54,12 +54,17 @@
     - 句式: 是时候... It's time to do ...
     - 文化: 这个句式,来源于英语中介词对中文的影响. 由于原本中文中没有介词,中文中的动词往往就能说清句子的意思. 因此面对英文中的" to do",中文发明出:该是... 的时候了. 
     - 同例: It's time to have supper.(该吃晚饭了)
-1. 没有人明白编剧究竟有多难,除非他真正从事过写剧本的工作.  
-    - 原句: No one will understand how hard it is to write a play,unless he has practised.
+1. 人们不会明白编剧有多难,除非真正从事过写剧本的工作.  
+    - 原句: People will never understand how hard to write a play,unless they actually take the job.
     - 句式: ..unless..
-    - 文化: ~
-    - 同例: I won't stay here unless he leaves.
+    - 文化: 纸上得来终觉浅，绝知此事要躬行。似乎汉语中的条件都是以肯定句的语气来说的，而通过否定说除非怎样，否则就不怎样，来表明条件，应该是外来的用法。
+    - 同例: I won't stay here unless he leaves.
         + 除非他离开,否则我不会呆在这. 
+1. 恭喜你成为我们中的一员
+    - 原句: Congratulations to become one of us.
+    - 句式: become one of us
+    - 文化: 
+    - 同例：作为我们中的一员，你应该有集体荣誉感
 1. 很高兴认识你. 
     - 原句: nice to meet you
     - 句式: (adj) to (V) someone 
@@ -70,6 +75,7 @@
     - 句式: I don't think...
     - 文化: ~
     - 同例: I don't think it works.
+   
 
 ## 外来比喻
 
