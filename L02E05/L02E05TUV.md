@@ -26,25 +26,25 @@
     - 文化:
     - 同例:
 1. 他在我的反应范围之外
-    - 原句:
-    - 句式:
-    - 文化:
-    - 同例:
+    - 原句: the man (who gives his name to this book) was exempt from my reaction
+    - 句式: A be exempt from B 免除于……
+    - 文化: 出自《了不起的盖茨比》，表示逻辑上的否定
+    - 同例: No one can exempt from the society. 人不能脱离社会环境之外。
 1. 进行不断的、有时隐蔽有时公开的斗争 
-    - 原句:
-    - 句式:
-    - 文化:
-    - 同例:
+    - 原句: carried on an uninterrupted, now hidden, now open fight
+    - 句式: a …… fight 一种……斗争 
+    - 文化: 出自《共产党宣言》，名词前加定冠词修饰。
+    - 同例: Life is a struggle. 生活是一场奋斗。
 1. 菊治也不十分清楚自己为什么会与夫人陷入这种状态
-    - 原句:
-    - 句式:
-    - 文化:
-    - 同例:
-1. 吃个饭先
-    - 原句:
-    - 句式:
-    - 文化:
-    - 同例:
+    - 原句: 菊田治も、自分がなぜ夫人とこんな状態に陥るのかよく分からない。
+    - 句式:陷入某种状态
+    - 文化:出自《千只鹤》，状态是个科学名词，描述事物处于某时期的形态
+    - 同例:陷入精力耗尽的状态 fall into a state of exhaustion
+1. 吃个饭先 （此句存疑）
+    - 原句: have a dinner first
+    - 句式: do something first
+    - 文化: 原出自粤语句式，可能受外来语（英语）影响
+    - 同例: Let's go first. 我们走先。
 1. 内心作了一项决定 
     - 原句: make a decision
     - 句式:
