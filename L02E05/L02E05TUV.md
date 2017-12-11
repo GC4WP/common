@@ -40,7 +40,7 @@
     - 文化: 由英语中引导目的状语而来. 通常为先描述做了某事,而导致后面达成的目的. 
     - 同例: I got up early this morning so as to catch the early train.(我今天早起床，为了能赶上早班车. )
 1. 美国队长是美国最知名的超级漫画英雄之一
-    - 原句: I think the Captain America is one of the most famous superhero I've ever seen.()
+    - 原句: I think the Captain America is one of the most famous superhero I've ever seen.
     - 句式: one of the most...  最... 之一
     - 文化: 来源于英语,表达所谓的精确. 出自"翻译乃大道(从西而不化到西而化之)","最高级+名词+之一",但仔细推究,即可发现:在不圈定范围的情况下,还是没有表达出具体的精确度. 比如李白是中国最伟大的诗人之一. 那么,最伟大的诗人到底有谁?大家是否都认同？否则，“之一”的表达，并不精准。
     - 同例: "哈姆雷特"是莎士比亚最著名的悲剧作品之一. 
